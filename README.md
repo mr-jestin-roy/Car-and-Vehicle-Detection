@@ -164,5 +164,3 @@ The last thing is that this procedure is very time-consuming. On average it take
 
 
 # Car-and-Vehicle-Detection
-# Car-and-Vehicle-Detection
-# Car-and-Vehicle-Detection
